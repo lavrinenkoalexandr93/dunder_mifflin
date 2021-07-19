@@ -5,7 +5,7 @@
             <mj-section background-color="#1B54DD">
                 <mj-column   >
                     <mj-image padding="32px"
-                         src="logo.png"
+                         src="https://github.com/lavrinenkoalexandr93/dunder_mifflin/blob/074ed4f2d21a6f3823f18d032a6d10f0cf2c05b5/Logo.png"
                          alt=""
                          width="100px" />
                 </mj-column>
