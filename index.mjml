@@ -5,7 +5,7 @@
             <mj-section background-color="#1B54DD">
                 <mj-column   >
                     <mj-image padding="32px"
-                         src="..//../logo.png"
+                         src="logo.png"
                          alt=""
                          width="100px" />
                 </mj-column>
