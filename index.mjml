@@ -1,0 +1,71 @@
+
+<mjml>
+    <mj-body>
+        <mj-container>
+            <mj-section background-color="#1B54DD">
+                <mj-column   >
+                    <mj-image padding="32px"
+                         src="logo.png"
+                         alt=""
+                         width="100px" />
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff"  >
+                <mj-column>
+                    <mj-text font-size="40px" font-weight="700" align="center">
+                    I am Beyoncé always.
+                    </mj-text>
+                    <mj-button background-color="#1B54DD" padding="12px 24px">
+                    CTA Text
+                    </mj-button>
+                    <mj-image
+                         src="Photo-16x9.png"
+                         alt=""
+                         width="480px" />
+
+                    <mj-text padding="32px 60px" line-height="20px">
+                        My, philosophy is, basically this. And this is something that I live by. And I always have. And I always will. Don’t, ever, for any reason, do anything, to anyone, for any reason, ever, no matter what, no matter where, or who you are with, or, or where you are going, or, or where you’ve been. Ever. For any reason. Whatsoever.
+                    </mj-text>
+                    <mj-button background-color="#1B54DD" padding="12px 24px">
+                    CTA Text
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+
+            <mj-section background-color="#E8E8E8">
+                <mj-column>
+                    <mj-social mode="horizontal">
+                        <mj-social-element src="social/twitter.png" name="twitter">
+                            Twitter
+                        </mj-social-element>
+                        <mj-social-element src="social/Facebook.png" name="facebook">
+                            Facebook
+                        </mj-social-element>
+                        <mj-social-element src="social/Union.png" name="instagram">
+                            Facebook
+                        </mj-social-element>
+                      
+                
+                
+                    </mj-social>
+                    <mj-text align="center" font-size="14px" color="#262626" font-weight="400">
+                        dundermifflinpaper.com
+                    </mj-text>
+                    <mj-text align="center" font-size="10px" color="#262626" font-weight="400" padding-top="0">
+                        1725 Slough Avenue #200, Scranton, PA, 18540
+                    </mj-text>
+                    <mj-text align="center" font-size="10px" color="#262626" font-weight="400" padding-top="0">
+                        © 2020 Bonnie Kate Wolf
+                    </mj-text>
+                    <mj-image
+                         src="DMI.png"
+                         alt=""
+                         width="40px"
+                         
+                          />
+                </mj-column>
+            </mj-section>
+        </mj-container>
+        
+    </mj-body>
+</mjml>
